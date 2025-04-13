@@ -1,5 +1,5 @@
-![Silicon27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silicon27&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silicon27&layout=compact)
+<!-- ![Silicon27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silicon27&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silicon27&layout=compact) -->
 
 your **data** is mine
 
